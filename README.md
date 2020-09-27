@@ -6,3 +6,13 @@ https://youtu.be/Q67GS9sa5d4
 
 Youtube video (Zoom Example):
 
+What we need is to just install a Data Mining Tool and perform data analysis with drag and drop method. The tool is not only limited to stock market data, but also for any other Data Science topics that you can think of. I will show you 
+
+1. How to install Orange Data Mining Tool
+2. How to download the stock market data from Investing.com
+3. How to pre-process the data
+4. How to split the data into train and test data
+5. How to import the data into Orange Data Mining Tool
+6. How to select the useful features
+7. How to evaluate the modelling results and select the best model
+8. How to perform prediction with using test data and your new input data
