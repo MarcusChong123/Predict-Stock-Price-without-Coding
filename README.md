@@ -4,8 +4,12 @@ In this tutorial, you are going to learn how to use Orange (Data Mining Tool) to
 Youtube video (Tesla Example):
 https://www.youtube.com/watch?v=Q67GS9sa5d4&t=655s
 
+![Tesla_Tutorial_Image](Images/Tesla_Tutorial_Image.JPG)
+
 Youtube video (Zoom Example):
 https://www.youtube.com/watch?v=fgqKIdQBIqQ
+
+![Zoom_Tutorial_Image](Images/Zoom_Tutorial_Image.JPG)
 
 What we need is to just install a Data Mining Tool and perform data analysis with drag and drop method. The tool is not only limited to stock market data, but also for any other Data Science topics that you can think of. I will show you 
 
